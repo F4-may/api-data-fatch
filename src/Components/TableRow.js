@@ -11,8 +11,8 @@ const TableRow = ({ data }) => {
        <td>{name}</td>
       <td>{symbol}</td>
       <td>{id}</td>
-      <td>$ {current_price}</td>
-      <td>{total_volume}</td>
+      <td>${current_price}</td>
+      <td>${total_volume}</td>
     </tr>
   );
 };
