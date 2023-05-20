@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/api-data-fatch/static/css/main.a1e5fe14.css",
+    "main.js": "/api-data-fatch/static/js/main.cf8aaa02.js",
+    "static/js/787.60e0bfb7.chunk.js": "/api-data-fatch/static/js/787.60e0bfb7.chunk.js",
+    "index.html": "/api-data-fatch/index.html",
+    "main.a1e5fe14.css.map": "/api-data-fatch/static/css/main.a1e5fe14.css.map",
+    "main.cf8aaa02.js.map": "/api-data-fatch/static/js/main.cf8aaa02.js.map",
+    "787.60e0bfb7.chunk.js.map": "/api-data-fatch/static/js/787.60e0bfb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1e5fe14.css",
+    "static/js/main.cf8aaa02.js"
+  ]
+}
